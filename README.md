@@ -17,8 +17,8 @@ My contributions included designing robots, developing control systems, and ensu
   - Programmed control systems in **Python** and **C++**.  
 
 - **Integration & Testing:**  
-  - Conducted comprehensive testing and troubleshooting for optimized performance.  
-  - Implemented seamless communication via **UART, I2C, SPI, WiFi, and rosserial**.  
+  - Conducted testing and troubleshooting for optimized performance.  
+  - Implemented communication via **UART, I2C, SPI, WiFi, and rosserial**.  
 
 ---
 
